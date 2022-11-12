@@ -2,6 +2,6 @@
 
 ---
 
-Proyecto Realizado Por
-Ana Sofia Aguirre Tafur
-Samuel Aleandro Cardozo Martinez
+## Proyecto Realizado Por
+- Ana Sofia Aguirre Tafur
+- Samuel Aleandro Cardozo Martinez
