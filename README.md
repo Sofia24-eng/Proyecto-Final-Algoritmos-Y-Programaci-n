@@ -3,7 +3,7 @@
 ### Proyecto Realizado Por:
 ~~~
 Ana Sofia Aguirre Tafur
-Samuel Aleandro Cardozo Martinez
+Samuel Alejandro Cardozo Martinez
 ~~~
 ## Introducción
 ---
