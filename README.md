@@ -1,15 +1,12 @@
 # Proyecto Final: Algoritmos Y Programación
 ---
-
 ### Proyecto Realizado Por:
 ~~~
 Ana Sofia Aguirre Tafur
 Samuel Aleandro Cardozo Martinez
 ~~~
-
-## Introduccioón
+## Introducción
 ---
-
 
 ## Herramientas Utilizadas
 ---
@@ -17,9 +14,5 @@ Samuel Aleandro Cardozo Martinez
 
 - **Visual Studio Code**
 
-
 ## Referencias
 ---
-
-
-
