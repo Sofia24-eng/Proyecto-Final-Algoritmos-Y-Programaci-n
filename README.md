@@ -10,9 +10,11 @@ Samuel Alejandro Cardozo Martinez
 
 ## Herramientas Utilizadas
 ---
+- **Visual Studio Code**
+
 - **Python**
 
-- **Visual Studio Code**
+- **Pygame**
 
 ## Referencias
 ---
