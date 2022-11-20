@@ -12,11 +12,11 @@ Se utilizará Python ya que es un lenguaje de programación muy flexible y fáci
 ## Ping-Pong
 Ping Pong también conocido simplemente como Pong es un juego para dos jugadores que consiste en golpear una pelota y hacerla cruzar al otro extremo del tablero (espacio rival). Si un jugador falla el golpe y la pelota sale del tablero (por su extremo), el punto será para el otro jugador y la ronda volverá a empezar. Ganará el jugador que logre acumular más puntos que su oponente. Ahora para desarrollar el proyecto traeremos este mismo concepto dentro de un videojuego con un estilo clásico y simplificado.
 <p align="center">
-<img src="https://img.freepik.com/fotos-premium/dos-raquetas-tenis-mesa-o-ping-pong-pelota-sobre-fondo-negro_84176-22.jpg?w=360" width="500" height="400">
+<img src="https://media.istockphoto.com/id/664878474/es/foto/tenis-de-mesa-de-raqueta-con-pelota-de-ping-pong-sobre-fondo-negro-concepto-de-deporte-copiar.jpg?s=170667a&w=0&k=20&c=k8O8v2h2Btx3AcWfjIrjy5Ut-Tssz3C9HMw44N4qo0M=" width="500" height="400">
 
 https://img2.freepng.es/20191206/oij/transparent-ping-pong-table-tennis-racket-racket-racquet-sport-5dea2c078a0950.4282278615756277835654.jpg
 https://w7.pngwing.com/pngs/696/83/png-transparent-ping-pong-paddles-sets-sport-ping-pong-sport-table-tennis-racket-sports-equipment.png
-
+https://img.freepik.com/fotos-premium/dos-raquetas-tenis-mesa-o-ping-pong-pelota-sobre-fondo-negro_84176-22.jpg?w=360
 
 ## Herramientas Utilizadas
 - **Python**
