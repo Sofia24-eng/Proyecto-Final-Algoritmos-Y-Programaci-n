@@ -27,7 +27,7 @@ Visual Studio Code es un editor de código fuente desarrollado por Microsoft y a
 - **Pygame**
 Pygame es una libreria multiplataforma utilizada para el desarrollo de videojuegos y aplicaciones multimedia en 2 dimensiones. ya que añade funciones y módulos que le facilitarán la tarea al programador. Es una biblioteca gratuita y permite crear juegos de código abierto; se necesitará de esta biblioteca para el desarrollo del proyecto.
 <p align="center">
-<img src="https://www.aprenderpython.net/wp-content/uploads/2017/07/pygame_logo.gif" width="500" height="350">
+<img src="https://www.aprenderpython.net/wp-content/uploads/2017/07/pygame_logo.gif" width="500" height="300">
 
 ## Referencias
 - https://www.python.org/about/
