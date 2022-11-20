@@ -39,4 +39,5 @@ Pygame es una libreria multiplataforma utilizada para el desarrollo de videojueg
 - https://www.pygame.org/wiki/about
 
 Realizado Por Ana Sofia Aguirre Tafur - Estudiante De Ingeniería - Universidad EAN 👩‍💻
-<img src="https://universidadean.edu.co/sites/default/files/logo-horizontal-es.png" width="300" height="100">
+
+<img src="https://universidadean.edu.co/sites/default/files/logo-horizontal-es.png" width="350" height="70">
