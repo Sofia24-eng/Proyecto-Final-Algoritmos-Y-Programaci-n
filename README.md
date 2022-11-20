@@ -10,8 +10,10 @@ Como proyecto final se llevará a cabo la creación de un videojuego de Ping-Pon
 Se utilizará Python ya que es un lenguaje de programación muy flexible y fácil de entender aún cuando no se tiene un amplio conocimiento de programación y creación o manipulación de código.
 
 ## Ping-Pong
-Ping Pong también conocido simplemente como Pong es un juego que consiste en... traeremos este mismo concepto dentro de un videojuego
+Ping Pong también conocido simplemente como Pong es un juego para dos jugadores que consiste en golpear una pelota y hacerla cruzar al otro extremo del tablero (espacio rival). Si un jugador falla el golpe y la pelota sale del tablero (por su extremo), el punto será para el otro jugador y la ronda volverá a empezar. Ganará el jugador que logre acumular más puntos que su oponente. Ahora para desarrollar el proyecto traeremos este mismo concepto dentro de un videojuego con un estilo clásico y simplificado.
 (imagen)
+<p align="center">
+<img src="https://img2.freepng.es/20191206/oij/transparent-ping-pong-table-tennis-racket-racket-racquet-sport-5dea2c078a0950.4282278615756277835654.jpg" width="400" height="400">
 
 ## Herramientas Utilizadas
 - **Python**
